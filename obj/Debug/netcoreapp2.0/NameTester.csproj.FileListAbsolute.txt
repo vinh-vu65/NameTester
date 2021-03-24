@@ -1,0 +1,11 @@
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\bin\Debug\netcoreapp2.0\NameTester.deps.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\bin\Debug\netcoreapp2.0\NameTester.runtimeconfig.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\bin\Debug\netcoreapp2.0\NameTester.runtimeconfig.dev.json
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\bin\Debug\netcoreapp2.0\NameTester.dll
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\bin\Debug\netcoreapp2.0\NameTester.pdb
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.csprojAssemblyReference.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.csproj.CoreCompileInputs.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.AssemblyInfoInputs.cache
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.AssemblyInfo.cs
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.dll
+C:\Users\Vinh\Documents\GCertIT\SIT771ObjectOrientedDevelopment\Code\NameTester\obj\Debug\netcoreapp2.0\NameTester.pdb
